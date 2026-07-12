@@ -16,6 +16,7 @@
 </div>
 
 ---
+<img align="right" alt="Rathisri" width="280" src="https://github.com/photo new.jpg"/>
 
 ## 🌸 About Me
 
