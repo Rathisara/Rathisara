@@ -1,37 +1,28 @@
 
-<!-- ========================================================= -->
-<!-- RATHISRI SARGURUNATHAN | DARK DEVELOPER DASHBOARD         -->
-<!-- ========================================================= -->
+<!-- =====================================================
+     RATHISRI SARGURUNATHAN | JAPANESE NEON PROFILE
+     GitHub: Rathisara
+====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:C89F94&text=Rathisri%20Sargurunathan&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Rathisri's profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B18,35:21143D,70:722B68,100:C89F94&text=RATHISRI%20SARGURUNATHAN&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=コード%20%E2%80%A2%20BUILD%20%E2%80%A2%20INNOVATE&descSize=16&descAlignY=58&animation=fadeIn" alt="Rathisri animated neon profile banner"/>
 
-<a href="https://github.com/Rathisara">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=C89F94&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Real-World+Solutions;React+%7C+FastAPI+%7C+Flutter;Cloud+%26+AI+Enthusiast;Turning+Ideas+Into+Impact" alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=C89F94&center=true&vCenter=true&width=750&height=55&lines=こんにちは!+I'm+Rathisri+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;React+%7C+FastAPI+%7C+Flutter;Building+Real-World+Solutions+%E2%9C%A8" alt="Animated introduction"/>
 
 <br/>
 
-<a href="#about-me"><img src="https://img.shields.io/badge/ABOUT_ME-C89F94?style=for-the-badge&labelColor=161B22" alt="About me"/></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-58A6FF?style=for-the-badge&labelColor=161B22" alt="Projects"/></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-A78BFA?style=for-the-badge&labelColor=161B22" alt="Tech stack"/></a>
-<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-3FB950?style=for-the-badge&labelColor=161B22" alt="Experience"/></a>
-<a href="#connect-with-me"><img src="https://img.shields.io/badge/CONTACT-F0883E?style=for-the-badge&labelColor=161B22" alt="Contact"/></a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-C89F94?style=for-the-badge&labelColor=0D1117" alt="Building the future"/>
+<img src="https://komarev.com/ghpvc/?username=Rathisara&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITS" alt="Profile views"/>
 
 <br/><br/>
 
-<a href="https://github.com/Rathisara">
-  <img src="https://komarev.com/ghpvc/?username=Rathisara&style=flat-square&color=C89F94&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
-</a>
-&nbsp;
-<a href="https://github.com/Rathisara?tab=followers">
-  <img src="https://img.shields.io/github/followers/Rathisara?style=flat-square&color=58A6FF&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/Rathisara?tab=repositories">
-  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-3FB950?style=flat-square" alt="Open to collaboration"/>
-</a>
+<a href="#about-me"><img src="https://img.shields.io/badge/01-ABOUT-C89F94?style=flat-square&labelColor=0D1117" alt="About"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/02-PROJECTS-BC8CFF?style=flat-square&labelColor=0D1117" alt="Projects"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/03-TECH%20STACK-58A6FF?style=flat-square&labelColor=0D1117" alt="Tech stack"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/04-EXPERIENCE-3FB950?style=flat-square&labelColor=0D1117" alt="Experience"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/05-STATS-F0883E?style=flat-square&labelColor=0D1117" alt="Statistics"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/06-CONTACT-C89F94?style=flat-square&labelColor=0D1117" alt="Contact"/></a>
 
 </div>
 
@@ -39,185 +30,194 @@
 
 <a id="about-me"></a>
 
-## `$ whoami` — About Me
+<div align="center">
+
+## 🌸 01 — 私について | WHO AM I?
+
+### `Hello, World! I'm Rathisri.`
+
+</div>
 
 <img align="right" width="190" src="photo%20new.jpg" alt="Rathisri Sargurunathan"/>
 
-Hi! I'm **Rathisri Sargurunathan**, a B.Tech Information Technology student at **RMK Engineering College**, passionate about building useful, scalable, and impactful software.
+🎓 **B.Tech Information Technology**  
+RMK Engineering College
 
-- 🎓 B.Tech Information Technology
-- 💻 Full Stack Web Development
-- 🤖 Artificial Intelligence & Cloud Computing
-- 📱 Mobile Application Development
-- 🇯🇵 NAT-Q5 Certified Japanese Learner
-- 📚 Currently pursuing JLPT N4
+💻 Full Stack Developer  
+🤖 AI & Cloud Computing Enthusiast  
+📱 Mobile Application Developer  
+🇯🇵 NAT-Q5 Certified Japanese Learner  
+📚 Pursuing JLPT N4
 
-I enjoy exploring new technologies, building practical projects, and turning ideas into working products.
+I love transforming ideas into practical applications through full-stack development, AI, cloud technologies, and creative problem-solving.
+
+```python
+class Rathisri:
+    name = "Rathisri Sargurunathan"
+    github = "Rathisara"
+    role = "Full Stack Developer"
+
+    interests = [
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Web Development",
+        "Mobile Applications",
+        "Japanese Language"
+    ]
+
+    learning = [
+        "Advanced React",
+        "Flutter",
+        "AWS",
+        "System Design"
+    ]
+
+    philosophy = "Learn. Build. Evolve."
+```
 
 <br clear="right"/>
 
-<details>
-<summary>⚡ More about me</summary>
+<div align="center">
 
-```yaml
-name: Rathisri Sargurunathan
-username: Rathisara
-role: Full Stack Developer
-education: B.Tech Information Technology
-college: RMK Engineering College
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C89F94,50:8B5CF6,100:58A6FF" width="100%" alt="Neon divider"/>
 
-currently_learning:
-  - Advanced React
-  - Flutter Development
-  - AWS Cloud Services
-  - System Design
-  - Competitive Programming
+> 「努力は未来をつくる」
+>
+> *Effort builds the future.*
 
-interests:
-  - Artificial Intelligence
-  - Cloud Computing
-  - Full Stack Development
-  - Mobile Applications
-  - Accessible Technology
-  - Research and Innovation
-
-motto: "Code. Build. Innovate. Repeat."
-```
-
-</details>
-
-[⬆ Back to top](#rathisri-sargurunathan)
+</div>
 
 ---
 
-<a id="featured-projects"></a>
+<a id="projects"></a>
 
-## `$ ls ./featured-projects` — Project Lab
+<div align="center">
 
-Explore my work below. Expand each project to learn more.
+## ⚔️ 02 — PROJECT DOJO
 
-<details open>
-<summary>💼 ContentPro — Full Stack CMS Platform</summary>
+### Projects built with purpose.
 
-**A full-stack web platform with content management and enquiry workflows.**
+<sub>Choose a project below to reveal its details.</sub>
 
-**Tech stack:** React.js · FastAPI · Supabase · PostgreSQL · Vercel · Render
+</div>
 
-- Dynamic content management architecture
+<details>
+<summary>💼 <b>ContentPro — Full Stack CMS Platform</b></summary>
+
+<br/>
+
+**A full-stack web application for content management and enquiry workflows.**
+
+**Tech stack**
+
+`React.js` `FastAPI` `Supabase` `PostgreSQL` `Vercel` `Render`
+
+**Features and development areas**
+
+- Dynamic CMS architecture
 - Admin dashboard functionality
 - Backend API development
-- Database integration and management
-- Frontend deployment and backend hosting
+- Database integration
+- Frontend and backend deployment
 
 </details>
 
 <details>
-<summary>🧠 Silent Voice AI — Speech-to-Sign Language Conversion</summary>
+<summary>🧠 <b>Silent Voice AI — Speech-to-Sign Language</b></summary>
 
-**An AI-enabled system designed to improve accessibility at public events.**
+<br/>
 
-- Speech recognition and language processing
-- Speech-to-sign-language conversion workflow
-- Animated avatar-based communication
-- Research project selected for ICA6NT 2026
+**An AI-enabled accessibility project that converts speech into sign-language representations using animated avatars for public events.**
 
-**Focus:** AI · NLP · Speech Recognition · Accessibility
+**Technology areas**
 
-</details>
+`AI` `NLP` `Speech Recognition` `Avatar Animation`
 
-<details>
-<summary>🌱 AGROSENSE — IoT & AI Smart Farming</summary>
+- Speech processing
+- Language processing and sign mapping
+- Animated avatar communication
+- Accessibility-focused design
 
-**An IoT-based soil analysis, crop recommendation, and smart farming system.**
-
-- Soil parameter analysis using sensor data and simulation
-- Cloud-based data acquisition and monitoring
-- AI-assisted crop recommendation
-- Smart vertical farming and remote monitoring concepts
-- Solar-powered remote-control concept
-
-**Focus:** Python · IoT · AI · Cloud Monitoring · Smart Agriculture
+🏆 Selected for ICA6NT 2026.
 
 </details>
 
 <details>
-<summary>🍯 BHive — Gamified Learning Ecosystem</summary>
+<summary>🌱 <b>AGROSENSE — Smart Farming System</b></summary>
 
-**A learning ecosystem focused on making learning more engaging through gamification.**
+<br/>
 
-- Gamification-focused learning experience
+**An IoT-based soil analysis, crop recommendation, and smart vertical farming system.**
+
+**Technology areas**
+
+`Python` `IoT` `AI` `Cloud Monitoring`
+
+- Soil nutrient analysis
+- Environmental parameter monitoring
+- Simulated sensor data acquisition
+- Crop recommendation
+- Smart farming and remote-control concepts
+
+</details>
+
+<details>
+<summary>🍯 <b>BHive — Gamified Learning Ecosystem</b></summary>
+
+<br/>
+
+**A gamified learning ecosystem designed to make educational experiences more engaging.**
+
 - Interactive learning concepts
-- Student engagement and motivation
-
-**Focus:** Web Development · Gamification · EdTech
+- Gamification
+- Student engagement
+- Educational technology
 
 </details>
 
-> Project repository and live-demo links can be added to each section when the corresponding URLs are available.
+<div align="center">
 
-[⬆ Back to top](#rathisri-sargurunathan)
+<a href="https://github.com/Rathisara?tab=repositories">
+<img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20ALL%20PROJECTS-C89F94?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore all repositories"/>
+</a>
 
----
-
-<a id="currently-working-on"></a>
-
-## `$ git status` — Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Development
-
-- Full Stack web applications
-- CMS and admin dashboards
-- FastAPI backend APIs
-- Supabase and PostgreSQL
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Learning
-
-- Advanced React
-- Flutter
-- AWS Cloud Services
-- System Design
-- Competitive Programming
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <a id="experience"></a>
 
-## `$ history --career` — Experience
+<div align="center">
+
+## 💻 03 — EXPERIENCE LOG
+
+</div>
 
 <details open>
-<summary>💻 Full Stack Development Intern — ContentPro</summary>
+<summary>🚀 <b>Full Stack Development Intern — ContentPro</b></summary>
 
-**2026 · Internship**
+<br/>
 
-- Building full-stack web applications
-- Developing CMS modules and admin dashboards
-- Creating backend APIs using FastAPI
-- Working with PostgreSQL and Supabase
-- Deploying applications using Render and Vercel
-- Contributing to real-world client projects
+**July 2026 – Present**
 
-**Technologies:** React.js · FastAPI · Supabase · PostgreSQL · Vercel · Render
+- Full-stack web application development
+- CMS modules and admin dashboard functionality
+- Backend APIs using FastAPI
+- Supabase and PostgreSQL integration
+- Deployment using Render and Vercel
+- Real-world client project development
 
 </details>
 
 <details>
-<summary>📊 Data Analytics Intern — EPAM Systems</summary>
+<summary>📊 <b>Data Analytics Intern — EPAM Systems</b></summary>
+
+<br/>
 
 **June 2025 – July 2025**
 
 - Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 - Data visualization
 - Analytical problem-solving
 
@@ -227,31 +227,33 @@ Explore my work below. Expand each project to learn more.
 
 <a id="tech-stack"></a>
 
-## `$ cat skills.json` — Tech Stack
-
 <div align="center">
 
-### Languages
+## 🛠️ 04 — MY ARSENAL
+
+### Technologies I use to build and innovate.
+
+### `PROGRAMMING LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Python, Java, C and C++"/>
 
-### Frontend Development
+### `FRONTEND DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" alt="HTML, CSS, JavaScript and React"/>
 
-### Backend Development
+### `BACKEND DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi&theme=dark" alt="Node.js and FastAPI"/>
 
-### Mobile Development
+### `MOBILE DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter"/>
 
-### Cloud & DevOps
+### `CLOUD & DEVOPS`
 
 <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="AWS and Docker"/>
 
-### Databases & Tools
+### `DATABASES & TOOLS`
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,firebase&theme=dark" alt="MySQL, PostgreSQL, Git, GitHub and Firebase"/>
 
@@ -259,107 +261,132 @@ Explore my work below. Expand each project to learn more.
 
 ---
 
-<a id="github-analytics"></a>
-
-## `$ ./github-analytics.sh` — GitHub Dashboard
-
 <div align="center">
 
-<a href="https://github.com/Rathisara">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Rathisara&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C89F94&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Rathisara">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathisara&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C89F94&text_color=C9D1D9" alt="Most-used programming languages"/>
-</a>
+## 🏆 05 — ACHIEVEMENTS & CERTIFICATIONS
 
-<br/>
+<img src="https://img.shields.io/badge/LEETCODE-100%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="100+ LeetCode problems"/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=Rathisara&theme=github-dark-blue&hide_border=true&background=0D1117&ring=C89F94&fire=F0883E&currStreakLabel=C89F94" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/RESEARCH-ICA6NT%202026-C89F94?style=for-the-badge" alt="ICA6NT 2026 selection"/>
+
+<img src="https://img.shields.io/badge/ORACLE-Generative%20AI%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Generative AI certification"/>
+
+<img src="https://img.shields.io/badge/JAPANESE-NAT--Q5%20CERTIFIED-BC002D?style=for-the-badge" alt="NAT-Q5 certification"/>
 
 <br/><br/>
 
-<a href="https://github.com/Rathisara?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My-Repositories-C89F94?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Explore repositories"/>
-</a>
+<sub>Certifications and achievements represented using badges; add links to individual certificates when available.</sub>
 
 </div>
 
 ---
 
-## `$ git log --achievements` — Highlights
+<a id="stats"></a>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode achievement"/>
-<img src="https://img.shields.io/badge/ICA6NT-2026%20Selection-C89F94?style=for-the-badge" alt="Silent Voice selection"/>
-<img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Generative AI certification"/>
-<img src="https://img.shields.io/badge/Japanese-NAT--Q5%20Certified-BC002D?style=for-the-badge" alt="Japanese certification"/>
-<img src="https://img.shields.io/badge/Experience-EPAM%20%26%20ContentPro-58A6FF?style=for-the-badge" alt="Internship experience"/>
+## 📊 06 — GITHUB DOJO
+
+### My coding journey, visualized.
+
+<a href="https://github.com/Rathisara">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rathisara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C89F94&icon_color=BC8CFF&text_color=FFFFFF" alt="GitHub profile statistics"/>
+</a>
+
+<a href="https://github.com/Rathisara">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathisara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C89F94&text_color=FFFFFF&langs_count=8" alt="Most-used languages"/>
+</a>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Rathisara&theme=tokyonight&hide_border=true&background=0D1117&ring=C89F94&fire=BC8CFF&currStreakLabel=C89F94" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rathisara&bg_color=0D1117&color=C89F94&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## `$ cat goals-2026.md` — Roadmap
+<div align="center">
+
+## 🐍 07 — THE CONTRIBUTION JOURNEY
+
+<img width="100%" src="https://raw.githubusercontent.com/Rathisara/Rathisara/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+<sub>One commit at a time. One step closer to the goal.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 08 — 2026 QUEST LOG
+
+</div>
 
 <details>
-<summary>🎯 Open my 2026 goals</summary>
+<summary>🧭 <b>Open my developer roadmap</b></summary>
 
 - [ ] Earn an Oracle Cloud professional certification
 - [ ] Publish more research papers
 - [ ] Solve 300+ LeetCode problems
 - [ ] Build AI SaaS products
 - [ ] Contribute to open-source projects
-- [ ] Continue improving Flutter and AWS skills
+- [ ] Improve Flutter and AWS skills
 
 </details>
 
 ---
 
-## `$ ./contribution-snake.sh` — Contribution Journey
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rathisara/Rathisara/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+## 🌏 09 — LANGUAGES
 
-*Every contribution is another step forward.*
+🇬🇧 **English** — Professional Working Proficiency
 
-</div>
+🇯🇵 **Japanese** — NAT-Q5 Certified · Pursuing JLPT N4
 
----
+<br/>
 
-<a id="languages"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C89F94,50:8B5CF6,100:58A6FF" width="100%" alt="Neon divider"/>
 
-## `$ locale --list` — Languages
+<a id="contact"></a>
 
-- 🇬🇧 **English** — Professional Working Proficiency
-- 🇯🇵 **Japanese** — NAT-Q5 Certified · Pursuing JLPT N4
+## 🤝 10 — CONNECT WITH ME
 
----
-
-<a id="connect-with-me"></a>
-
-## `$ ping Rathisri` — Let's Connect
-
-<div align="center">
+### Let's create something meaningful together.
 
 <a href="mailto:rathi06sara20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-C89F94?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rathisri"/>
+<img src="https://img.shields.io/badge/GMAIL-LET'S%20TALK-C89F94?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
+
 <a href="https://www.linkedin.com/in/rathisri-sargurunathan-2018sara">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://github.com/Rathisara">
-  <img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
 </a>
+
 <a href="https://leetcode.com/u/Rathisri/">
-  <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+<img src="https://img.shields.io/badge/LEETCODE-LET'S%20CODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-### 💬 "Code • Build • Innovate • Repeat"
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=C89F94&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+learning.+Keep+building.;じゃあ、またね!+%E2%9C%A8" alt="Animated goodbye"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,50:161B22,100:C89F94&section=footer" width="100%" alt="Profile footer banner"/>
+<br/>
+
+### 「夢をコードに、未来を形に。」
+
+*Turn dreams into code. Shape the future.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:080B18,35:21143D,70:722B68,100:C89F94&section=footer" alt="Animated neon footer"/>
+
+<a href="#about-me">⬆ RETURN TO THE TOP</a>
 
 </div>
