@@ -1,15 +1,15 @@
 
-<!-- ═══════════ RATHISRI | GITHUB PROFILE ═══════════ -->
+<!-- RATHISRI SARGURUNATHAN | GITHUB PROFILE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:FFF1F3,50:EADCF8,100:CBB8E8&fontColor=493653&fontSize=34&fontAlignY=40&desc=DEVELOP%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descSize=13&descAlignY=62" alt="Pastel lavender profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=B9A7D8" alt="Lavender accent"/>
 
-# Hi, I'm Rathisri S. 👋
+# 🌸 Rathisri Sargurunathan
 
-### Information Technology Student · Full-Stack Developer
+**Information Technology Student · Full-Stack Developer**
 
-Building web apps, mobile experiences, and AI-powered solutions.
+Building thoughtful web, mobile, and AI-powered applications.
 
 <a href="https://github.com/Rathisara">
 <img src="https://img.shields.io/badge/GitHub-493653?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -24,9 +24,9 @@ Building web apps, mobile experiences, and AI-powered solutions.
 
 ## 🌷 About Me
 
-🎓 B.Tech Information Technology — RMK Engineering College (2024–2028)
+🎓 B.Tech Information Technology · RMK Engineering College (2024–2028)
 
-💻 Interested in full-stack development and mobile applications.
+💻 Interested in full-stack web and mobile development.
 
 🌱 Exploring AI, IoT, and smart technology solutions.
 
@@ -34,7 +34,7 @@ Building web apps, mobile experiences, and AI-powered solutions.
 
 ---
 
-## ✨ Featured Projects
+## ✦ Featured Projects
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ Building web apps, mobile experiences, and AI-powered solutions.
 
 Soil analysis, crop recommendations, sensor monitoring, and smart vertical farming.
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python&theme=light" alt="Flutter, Dart and Python"/>
+<sub>Flutter · Dart · Python · Supabase · ThingSpeak</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +57,7 @@ Soil analysis, crop recommendations, sensor monitoring, and smart vertical farmi
 
 An AI-enabled concept for converting speech into sign-language representations with animated avatars.
 
-<img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python"/>
+<sub>Speech Recognition · NLP · AI</sub>
 
 </td>
 </tr>
@@ -68,18 +68,20 @@ An AI-enabled concept for converting speech into sign-language representations w
 
 **Full-Stack Web Application**
 
-Responsive web application with enquiry workflows, backend APIs, and database integration.
+A responsive web application with enquiry workflows, backend APIs, and database integration.
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,supabase&theme=light" alt="React, FastAPI and Supabase"/>
+<sub>React · FastAPI · Supabase · Vercel · Render</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Data Analytics
 
-**EPAM Internship**
+**EPAM Systems · Internship**
 
 Experience with data preparation, exploratory analysis, and data visualization.
+
+<sub>Data Preparation · EDA · Visualization</sub>
 
 </td>
 </tr>
@@ -88,7 +90,7 @@ Experience with data preparation, exploratory analysis, and data visualization.
 <div align="center">
 
 <a href="https://github.com/Rathisara?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-CBB8E8?style=for-the-badge&logo=github&logoColor=493653" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/Explore%20Projects-CBB8E8?style=for-the-badge&logo=github&logoColor=493653" alt="Explore projects"/>
 </a>
 
 </div>
@@ -98,20 +100,19 @@ Experience with data preparation, exploratory analysis, and data visualization.
 ## 💼 Experience
 
 <details>
-<summary>💻 <b>Full-Stack Development Intern · ContentPro</b> (June–August 2026)</summary>
+<summary><b>Full-Stack Web Development · ContentPro</b> — June–August 2026</summary>
 
-- Responsive frontend development with React.js
-- Backend APIs using FastAPI
-- Database integration with Supabase
-- Deployment using Vercel and Render
+- Developed responsive web application features.
+- Worked with React.js, FastAPI, and Supabase.
+- Contributed to API integration, testing, and deployment.
 
 </details>
 
 <details>
-<summary>📈 <b>Data Analytics Intern · EPAM Systems</b> (June–July 2025)</summary>
+<summary><b>Data Analytics · EPAM Systems</b> — June–July 2025</summary>
 
-- Data preparation and exploratory analysis
-- Data visualization and analytical workflows
+- Worked on data preparation and exploratory analysis.
+- Explored data visualization and analytical workflows.
 
 </details>
 
@@ -123,36 +124,30 @@ Experience with data preparation, exploratory analysis, and data visualization.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,dart,js&theme=light" alt="Java, Python, Dart and JavaScript"/>
+<img src="https://skillicons.dev/icons?i=java,python,dart,js&theme=light" height="40" alt="Java, Python, Dart and JavaScript"/>
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,flutter&theme=light" alt="HTML, CSS, React and Flutter"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,flutter&theme=light" height="40" alt="HTML, CSS, React and Flutter"/>
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,supabase&theme=light" alt="Node.js, Express, FastAPI, PostgreSQL and Supabase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,supabase&theme=light" height="40" alt="Node.js, Express, FastAPI, PostgreSQL and Supabase"/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" alt="Git, GitHub, VS Code and Figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" height="40" alt="Git, GitHub, VS Code and Figma"/>
 
 </div>
 
 ---
 
-## 🌸 A Little More About Me
-
 <div align="center">
 
-🇬🇧 English &nbsp; · &nbsp; 🇯🇵 Japanese
+**A little progress every day. 一歩ずつ 🌸**
 
-*Learn something new. Build something meaningful.*
+[GitHub](https://github.com/Rathisara) · [LinkedIn](https://www.linkedin.com/in/rathisri-sargurunathan-2018sara)
 
-<a href="https://github.com/Rathisara">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/rathisri-sargurunathan-2018sara">LinkedIn</a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:CBB8E8,50:EADCF8,100:FFF1F3" alt="Pastel lavender footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=CBB8E8" alt="Lavender footer accent"/>
 
 </div>
